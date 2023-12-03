@@ -48,7 +48,6 @@ _Freelancing projects accepted and delivered._
 <br><br>
 
 **dbt Integration with Airflow: Python Virtual Env and CI/CD Setup**  _(Mar 2023 - Jul 2023)_ <br>
-Magazine for socially conscious young people who want to create their own media.
   - **_Technologies used:_**  Docker, dbt, Airflow, Cloud Composer, Cloud Build.
   - Description: Efficiently integrated dbt with Airflow, optimizing deployment through Docker and tailoring Python virtual environments for enhanced customization, all while establishing a robust CI/CD pipeline for agile development workflows.
     <br><br>
@@ -57,41 +56,36 @@ Magazine for socially conscious young people who want to create their own media.
 
 **Google Cloud Professional Cloud Database Engineer** _(2023)_<br>
 [Google Cloud Professional Certifications](https://www.credential.net/profile/phuongtran504977/wallet)
-  <br><br>
+<br>
 
 **Google Cloud Professional Cloud Database Engineer** _(2022)_<br>
 [Google Cloud Professional Certifications](https://www.credential.net/profile/phuongtran504977/wallet)
-  <br><br>
+<br>
 
 **DAG Authoring Certification for Apache Airflow** _(2023)_<br>
 [Astronomer](https://www.credly.com/badges/3f79e152‑2737‑46c9‑ac4e‑d0d2c9526e19/public_url)
-  <br><br>
+<br>
 
 **HackerRank Certified SQL (Advanced)** _(2022)_<br>
 [Hackerrank](https://www.hackerrank.com/certificates/29385c33fa5c)
-  <br><br>
+<br>
   
-
 ## ⚓ Skills
 
-- **Programming Languages**
+**Programming Languages**
 <br>Python, SQL, R<br>
 
-- **Cloud Computing**
+**Cloud Computing**
 <br>Google Cloud, AWS<br>
-<br>
 
 **Transformation Tools**
 <br>dbt<br>
-<br>
   
 **Containerisation Platform**
 <br>Docker<br>
-<br>
 
 **Reporting Tools**
 <br>PowerBI, Lookerstudio<br>
-<br>
 
 ## 👩🏼‍🎓 Education
 
