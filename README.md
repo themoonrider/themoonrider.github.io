@@ -34,9 +34,6 @@ Demonstrated track record of success in leading and executing data analysis and 
 
 ## 🌀 Freelancing Experience
 
-_Freelancing projects accepted and delivered._
-<br><br>
-
 **Fashion Catalog AI: GPT-4-Powered Description Generation**  _(Dec 2023 - Present)_ <br>
   - **_Technologies used:_** Streamlit, Cloud Run, GPT4-vision API.
   - Description: Implemented GPT-4 Vision model integration for generating product descriptions from images and specified features, showcasing the results through a user-friendly and lightweight UI on Streamlit.
