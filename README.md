@@ -34,19 +34,20 @@ Demonstrated track record of success in leading and executing data analysis and 
 
 ## 🌀 Freelancing Experience
 
-**Fashion Catalog AI: GPT-4-Powered Description Generation**  _(Dec 2023 - Present)_ <br>
-  - **_Technologies used:_** Streamlit, Cloud Run, GPT4-vision API.
-  - Description: Implemented GPT-4 Vision model integration for generating product descriptions from images and specified features, showcasing the results through a user-friendly and lightweight UI on Streamlit.
+**Fashion Catalog AI: LLM-Powered Description Generation**  _(Dec 2023 - Present)_ <br>
+  - **_Technologies used:_** Streamlit, Cloud Run, LLM.
+  - Implemented GPT-4 Vision model integration for generating product descriptions from images and specified features, showcasing the results through a user-friendly and lightweight UI on Streamlit.
 <br><br>
 
 **Real-time Virus Test Data Streaming and Reporting Pipeline** _(Sept 2023 - Oct 2023)_ <br>
   - **_Technologies used:_**  Cloud Function, Lookerstudio, Firestore.
-  - Description: Developed a streaming pipeline to transfer virus test data in real-time from Firestore to BigQuery, accompanied by the creation of a reporting dashboard for enhanced analytics and decision-making.
+  - Developed a streaming pipeline to transfer virus test data in real-time from Firestore to BigQuery
+  - Created a reporting dashboard for enhanced analytics and decision-making.
 <br><br>
 
 **dbt Integration with Airflow: Python Virtual Env and CI/CD Setup**  _(Mar 2023 - Jul 2023)_ <br>
   - **_Technologies used:_**  Docker, dbt, Airflow, Cloud Composer, Cloud Build.
-  - Description: Efficiently integrated dbt with Airflow, optimizing deployment through Docker and tailoring Python virtual environments for enhanced customization, all while establishing a robust CI/CD pipeline for agile development workflows.
+  - Integrated dbt with Airflow, optimizing deployment through Docker and tailoring Python virtual environments for enhanced customization, all while establishing a robust CI/CD pipeline for agile development workflows.
     <br><br>
 
 ## 📌 Certifications
@@ -82,7 +83,7 @@ Demonstrated track record of success in leading and executing data analysis and 
 <br>Docker<br>
 
 **Reporting Tools**
-<br>PowerBI, Lookerstudio<br>
+<br>PowerBI, Lookerstudio, Streamlit<br>
 
 ## 👩🏼‍🎓 Education
 
