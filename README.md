@@ -41,7 +41,7 @@ Demonstrated track record of success in leading and executing data analysis and 
 
 **Real-time Virus Test Data Streaming and Reporting Pipeline** _(Sept 2023 - Oct 2023)_ <br>
   - **_Technologies used:_**  Cloud Function, Lookerstudio, Firestore.
-  - Developed a streaming pipeline to transfer virus test data in real-time from Firestore to BigQuery
+  - Developed a streaming pipeline to transfer virus test data in real-time from Firestore to BigQuery.
   - Created a reporting dashboard for enhanced analytics and decision-making.
 <br><br>
 
