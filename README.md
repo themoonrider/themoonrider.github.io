@@ -39,7 +39,7 @@ Demonstrated track record of success in leading and executing data analysis and 
   - Implemented GPT-4 Vision model integration for generating product descriptions from images and specified features, showcasing the results through a user-friendly and lightweight UI on Streamlit.
 <br><br>
 
-**Real-time Virus Test Data Streaming and Reporting Pipeline** _(Sept 2023 - Oct 2023)_ <br>
+**Real-Time Data Streaming and Analytics Dashboard** _(Sept 2023 - Oct 2023)_ <br>
   - **_Technologies used:_**  Cloud Function, Lookerstudio, Firestore.
   - Developed a streaming pipeline to transfer virus test data in real-time from Firestore to BigQuery.
   - Created a reporting dashboard for enhanced analytics and decision-making.
@@ -56,7 +56,7 @@ Demonstrated track record of success in leading and executing data analysis and 
 [Google Cloud Professional Certifications](https://www.credential.net/profile/phuongtran504977/wallet)
 <br>
 
-**Google Cloud Professional Cloud Database Engineer** _(2022)_<br>
+**Google Cloud Professional Data Engineer** _(2022)_<br>
 [Google Cloud Professional Certifications](https://www.credential.net/profile/phuongtran504977/wallet)
 <br>
 
